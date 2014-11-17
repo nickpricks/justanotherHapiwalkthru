@@ -1,4 +1,4 @@
-nodevember
+Hapi.js Walkthrough
 ==========
 
-Code for nodevember hapi.js presentation
+Different topics around hapi.js divided into topic branches.
