@@ -1,4 +1,4 @@
-Hapi.js Walkthrough
-==========
+#Hapi.js Walkthrough
+#===================
 
-Different topics around hapi.js divided into topic branches.
+Different topics/modules/plugins around hapi.js, all at once. # justanotherHapiwalkthru
